@@ -117,8 +117,8 @@ services:
       KAFKA_CLUSTERS_0_PROPERTIES_SASL_JAAS_CONFIG: |
         org.apache.kafka.common.security.plain.PlainLoginModule required 
         username="data" 
-        password="9DtX9yuvgePYKCWV7iiEZ5Uk" 
-        user_data="9DtX9yuvgePYKCWV7iiEZ5Uk";
+        password="dafawfwafawfawfw" 
+        user_data="dafawfwafawfawfw";
     depends_on:
       - kafka1
       - kafka2
